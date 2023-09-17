@@ -1,12 +1,8 @@
-# ❌ Tic-Tac-Toe ⭕
+# Tic-Tac-Toe ⭕ ❌ 
 A command-line based tic-tac-toe game made in Python!
-This was a final exam project for my programming fundamentals university course.
+This was a final exam project for my <i>programming fundamentals</i> university course.
 
-# Features ✨
-1. tic-tac-toe
-2. uhhhh
-
-# What I learned 🤓
+⚙️ What I learned from creating this program:
 1. Printing information & getting user input
 2. Lists (used to store board states)
 3. File processing (to log past game data)
